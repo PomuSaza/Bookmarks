@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Sat, 29 Aug 2026 10:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:47:12 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Андеграунд :: Андеграунд :: Компьютерный форум Ru.Board</title>
@@ -508,6 +508,11 @@
     <item>
       <title>Github</title>
       <link>https://github.com/repos</link>
+      <category>Other Bookmarks</category>
+    </item>
+    <item>
+      <title>Google Translate</title>
+      <link>https://translate.google.com/?sl=auto&amp;tl=zh-CN&amp;op=translate</link>
       <category>Other Bookmarks</category>
     </item>
   </channel>
