@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T06:38:58.605Z
+> Last synced: 2026-08-29T06:40:21.138Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -60,15 +60,8 @@
 - [主页 | Voice Resource Project](https://transvoice-wiki.mtf.wiki/)
 - [欢迎 – MtF.wiki](https://mtf.wiki/zh-cn/docs/)
 - [密码生成器 | Psono](https://psono.com/zh/password-generator)
-- [嗓音训练文稿与训练服务套餐](https://voice.cntt.uk/)
-- [茶氨酸 | OverdoseWiki](https://www.od-wiki.com/Drugs/TAN.html)
-- [唑吡坦 | OverdoseWiki](https://www.od-wiki.com/Drugs/ZPD.html)
-- [苏糖酸镁 | OverdoseWiki](https://www.od-wiki.com/Drugs/MGT.html)
-- [吡拉西坦 | OverdoseWiki](https://www.od-wiki.com/Drugs/PCT.html)
 - [雅思真題免費線上測試及答案-雅思考試真題-雅思答案-雅思線上 | IELTS Online Tests](https://ieltsonlinetests.com/zh-hans/ielts-exam-library?skill=reading)
 - [地址发布](https://www.libvio.app/)
-- [药物联用](https://www.overdose.day/25.html)
-- [报告 | overdosewiki](https://overdose.wiki/zh/Report)
 - [食用手册](https://cook.yunyoujun.cn/)
 - [报告68-我擦好吃啊😭 | overdosewiki](https://overdose.wiki/Report/RP-68)
 - [How to climb the fifth plateau | overdosewiki](https://overdose.wiki/zh/drugs/DXM/HTCT5THP)
