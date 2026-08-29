@@ -3,13 +3,8 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Fri, 28 Aug 2026 02:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 06:34:13 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
-    <item>
-      <title>Fedora server</title>
-      <link>http://localhost:9090/</link>
-      <category>Bookmarks Bar</category>
-    </item>
     <item>
       <title>Андеграунд :: Андеграунд :: Компьютерный форум Ru.Board</title>
       <link>https://forum.ru-board.com/forum.cgi?forum=55</link>
@@ -608,6 +603,11 @@
     <item>
       <title>World - VRChat</title>
       <link>https://vrchat.com/home/world/wrld_c40bf9fe-8f6a-4cad-808e-f7cd84dd7cbe</link>
+      <category>Other Bookmarks</category>
+    </item>
+    <item>
+      <title>Fedora server</title>
+      <link>http://localhost:9090/</link>
       <category>Other Bookmarks</category>
     </item>
     <item>

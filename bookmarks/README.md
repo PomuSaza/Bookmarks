@@ -1,12 +1,10 @@
 # Bookmarks
 
-> Last synced: 2026-08-28T02:53:03.202Z
+> Last synced: 2026-08-29T06:34:13.966Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
 ## Bookmarks Bar
-
-- [Fedora server](http://localhost:9090/)
 
 ### 论坛
 
@@ -137,6 +135,7 @@
 - [AI 多智能体协同新方向 - Google Gemini](https://gemini.google.com/app/93430782d6363cdb)
 - [MIUI Official ROMS - roms.miuier.com](https://roms.miuier.com/en-us)
 - [World - VRChat](https://vrchat.com/home/world/wrld_c40bf9fe-8f6a-4cad-808e-f7cd84dd7cbe)
+- [Fedora server](http://localhost:9090/)
 
 ### Minecraft
 
