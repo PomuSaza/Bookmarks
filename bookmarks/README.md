@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T06:38:06.323Z
+> Last synced: 2026-08-29T06:38:36.151Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -39,11 +39,8 @@
 - [Setup — NearShare](https://nearshare.shortdev.de/docs/setup/)
 - [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
 - [VirusTotal - Home](https://www.virustotal.com/gui/home/upload)
-- [思绪思维导图](https://wanglin2.github.io/mind-map/#/)
 - [WebRTC Leak Test - BrowserLeaks](https://browserleaks.com/webrtc)
 - [SteamTools - 游戏热爱者](https://www.steamtools.net/)
-- [Password Manager](https://passwords.google.com/)
-- [在线随机密码生成器](https://www.lddgo.net/string/randompassword)
 - [AICU - 我会一直看着你](https://www.aicu.cc/)
 - [在线拆分PDF文件。免费拆分PDF文件](https://www.ilovepdf.com/zh-cn/split_pdf#split,range)
 - [Releases · clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
