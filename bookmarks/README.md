@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T10:16:48.640Z
+> Last synced: 2026-08-29T10:17:09.798Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -117,3 +117,4 @@
 - [YouTube Music](https://music.youtube.com/)
 - [Discord](https://discord.com/app)
 - [Google Gemini](https://gemini.google.com/app)
+- [Github](https://github.com/repos)
