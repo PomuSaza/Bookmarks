@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T06:37:32.915Z
+> Last synced: 2026-08-29T06:38:06.323Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -23,10 +23,7 @@
 - [赛博朋克2077攻略秘籍_赛博朋克2077全攻略_赛博朋克2077攻略专区_游侠网](https://gl.ali213.net/z/8765/)
 ### 工具
 
-- [HTML颜色代码](https://htmlcolorcodes.com/zh/)
 - [AppIcon Forge - Create & Customize Stunning App Icons Online](https://zhangyu1818.github.io/appicon-forge/)
-- [steamcommunity 302 Ver.12.1.46 – Dogfight360](https://www.dogfight360.com/blog/686/)
-- [LaodiTeachTips](https://ldt.pc.wiki/)
 - [分享解密某Android电视adb后门方法 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1054251-1-1.html)
 - [逆向Android Framework,破解第三方APP的安装限制 - FreeBuf网络安全行业门户](https://www.freebuf.com/articles/terminal/262527.html)
 - [Musicca – 免费学习乐理](https://www.musicca.com/zh)
@@ -38,7 +35,6 @@
 - [DON'T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE](https://thirtydollar.website/)
 - [IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.](https://ipleak.net/)
 - [ヌー@ドット絵素材置き場 | Gnu materials](http://damagedgold.wp.xdomain.jp/)
-- [ClashMihomo:规则配置模板与CVR便携版 - Christine](https://realiti.me/posts/clash-vergerev-to-portable/)
 - [Free Fonts to Download | FontSwan](https://fontswan.com/)
 - [Setup — NearShare](https://nearshare.shortdev.de/docs/setup/)
 - [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
