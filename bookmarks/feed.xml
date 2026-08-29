@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Sat, 29 Aug 2026 10:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:16:48 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Андеграунд :: Андеграунд :: Компьютерный форум Ru.Board</title>
@@ -498,6 +498,11 @@
     <item>
       <title>Discord</title>
       <link>https://discord.com/app</link>
+      <category>Other Bookmarks</category>
+    </item>
+    <item>
+      <title>Google Gemini</title>
+      <link>https://gemini.google.com/app</link>
       <category>Other Bookmarks</category>
     </item>
   </channel>
