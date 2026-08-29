@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T08:43:37.890Z
+> Last synced: 2026-08-29T10:15:11.458Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -114,3 +114,5 @@
 
 - [Fedora server](http://localhost:9090/)
 - [哔哩哔哩](https://www.bilibili.com/)
+- [YouTube Music](https://music.youtube.com/)
+- [Discord](https://discord.com/app)

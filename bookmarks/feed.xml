@@ -3,7 +3,7 @@
   <channel>
     <title>Bookmarks</title>
     <description>Bookmarks synced by GitSyncMarks</description>
-    <lastBuildDate>Sat, 29 Aug 2026 08:43:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:15:11 GMT</lastBuildDate>
     <generator>GitSyncMarks</generator>
     <item>
       <title>Андеграунд :: Андеграунд :: Компьютерный форум Ru.Board</title>
@@ -488,6 +488,16 @@
     <item>
       <title>哔哩哔哩</title>
       <link>https://www.bilibili.com/</link>
+      <category>Other Bookmarks</category>
+    </item>
+    <item>
+      <title>YouTube Music</title>
+      <link>https://music.youtube.com/</link>
+      <category>Other Bookmarks</category>
+    </item>
+    <item>
+      <title>Discord</title>
+      <link>https://discord.com/app</link>
       <category>Other Bookmarks</category>
     </item>
   </channel>
