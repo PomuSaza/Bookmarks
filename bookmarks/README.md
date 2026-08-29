@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T06:38:36.151Z
+> Last synced: 2026-08-29T06:38:58.605Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -43,7 +43,6 @@
 - [SteamTools - 游戏热爱者](https://www.steamtools.net/)
 - [AICU - 我会一直看着你](https://www.aicu.cc/)
 - [在线拆分PDF文件。免费拆分PDF文件](https://www.ilovepdf.com/zh-cn/split_pdf#split,range)
-- [Releases · clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 - [Material Theme Builder](https://material-foundation.github.io/material-theme-builder/)
 - [隧道管理 | ME Frp 5.0 管理面板](https://www.mefrp.com/dashboard/manage-proxies)
 - [baritone机器人实用命令大全 - LF外纪参数配置下载站-永久公益](https://lfwg.xpdbk.com/post/baritone%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E7%94%A8%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8/)
