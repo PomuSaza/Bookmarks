@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T07:31:23.537Z
+> Last synced: 2026-08-29T08:43:37.890Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -106,7 +106,6 @@
 - [Lumen Weaver · Focus](https://lumenplatform.net/weaver/)
 - [快且全的免费资源导航，包括实用工具和二次元资源（6.4去掉质量不够的） - 鲲 Galgame 论坛 🐳 开源 Galgame 网站](https://www.kungal.com/topic/3294)
 - [Kimochi Gaming - Free Download 2D|3D Adult Porn, ゲーム エロゲ. Hentai Games, Visual Novel, Eroge Games](https://kimochi.info/)
-- [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
 ### 杂乱收集
 
 - [World - VRChat](https://vrchat.com/home/world/wrld_c40bf9fe-8f6a-4cad-808e-f7cd84dd7cbe)
@@ -114,3 +113,4 @@
 ## Other Bookmarks
 
 - [Fedora server](http://localhost:9090/)
+- [哔哩哔哩](https://www.bilibili.com/)
