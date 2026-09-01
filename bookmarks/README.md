@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-08-29T12:47:12.371Z
+> Last synced: 2026-09-01T15:14:36.252Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -109,6 +109,7 @@
 ### 杂乱收集
 
 - [World - VRChat](https://vrchat.com/home/world/wrld_c40bf9fe-8f6a-4cad-808e-f7cd84dd7cbe)
+- [Registered Categories | Desktop Menu Specification](https://specifications.freedesktop.org/menu/1.0/category-registry.html)
 
 ## Other Bookmarks
 
