@@ -1,6 +1,6 @@
 # Bookmarks
 
-> Last synced: 2026-09-10T07:25:00.133Z
+> Last synced: 2026-09-10T09:09:53.130Z
 
 > Import: Download `bookmarks.html` and import it in your browser (Chrome: Bookmarks → Import; Firefox: Import and Backup → Import Bookmarks from file).
 
@@ -110,7 +110,7 @@
 
 - [World - VRChat](https://vrchat.com/home/world/wrld_c40bf9fe-8f6a-4cad-808e-f7cd84dd7cbe)
 - [Registered Categories | Desktop Menu Specification](https://specifications.freedesktop.org/menu/1.0/category-registry.html)
-- [根据官方文档，2026 年 fcitx5 的配置详情如下。](https://blazechariot.netlify.app/blog/fcitx5-settings-2026/#:~:text=%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E5%8B%95%E3%81%8F%E3%81%AA%E3%82%89%E3%80%81%E3%81%9D%E3%82%8C%E3%81%8C%E6%9C%80%E3%82%82%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%99%E3%80%82,QT_IM_MODULES%3D%22wayland%3Bfcitx%22)
+- [2026 年 fcitx5 的配置详情如下。](https://blazechariot.netlify.app/blog/fcitx5-settings-2026/#:~:text=%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E5%8B%95%E3%81%8F%E3%81%AA%E3%82%89%E3%80%81%E3%81%9D%E3%82%8C%E3%81%8C%E6%9C%80%E3%82%82%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%99%E3%80%82,QT_IM_MODULES%3D%22wayland%3Bfcitx%22)
 
 ## Other Bookmarks
 
